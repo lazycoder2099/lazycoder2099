@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm currently working on: Building frontend projects to improve my UI/UX skills.<br><br>I'm looking to collaborate with: Developers/designers on frontend or open-source projects.<br><br>I'm looking for help with: Learning advanced JavaScript concepts & improving project architecture.<br><br>I'm currently learning: React, APIs, responsive design, and modern frontend best practices.<br><br>Ask me about: HTML, CSS, JavaScript, UI design, beginner-friendly frontend tips.<br><br>Fun fact: I can spend hours perfecting a UI animation that lasts only 0.3 seconds 😄.
+I'm currently working on: Building frontend projects to improve my UI/UX skills.
 
 
 ## 🌐 Socials:
